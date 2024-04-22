@@ -1,0 +1,5 @@
+.env
+questions.yaml
+.idea
+__pycache__
+venv
